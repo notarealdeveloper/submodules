@@ -1,0 +1,6 @@
+[submodule "bash"]
+	path = bash
+	url = git://git.sv.gnu.org/bash.git
+[submodule "coreutils"]
+	path = coreutils
+	url = git://git.sv.gnu.org/coreutils
